@@ -1,2 +1,2 @@
 # Area_Calculator
-This is the area calculator which is created on python by using if, else and while true.
+This is a simple Python-based Area Calculator that allows users to calculate the area of different shapes using a menu-driven interface. The program runs in a loop and lets the user choose between square, rectangle, triangle, and circle. After entering the required dimensions, it instantly displays the calculated area. It is beginner-friendly and demonstrates the practical use of loops, conditional statements, and user input in Python. This project is useful for understanding basic geometry calculations and improving Python logic skills.
